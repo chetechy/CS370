@@ -1,6 +1,6 @@
 # CS370
 Current/Emerging Trends
-# Brief Explanation of the Project:
+# Explanation of the Project:
 
 In this project, my role as an AI developer was to design an intelligent agent for a treasure hunt game. The agent, representing a pirate, needed to navigate through a game world with pathways and obstacles to find the treasure before the human player. The primary task was to implement a deep Q-learning algorithm for the NPC pirate.
 
